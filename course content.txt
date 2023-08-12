@@ -1,0 +1,31 @@
+Python SDET -Back end Automation Testing	
+(API+SQL+SSH+ Scrap)
+	
+Why Back End Automation Testing?	
+How this course helps you to become Python SDET?	
+
+Course Content :	
+P1: JSON Parsers with Python modules.
+Read and Write to Json files with Python.
+API Automation using requests Library.
+Understand CRUD operations GET,POST, DELETE,PUT API methods for automation.
+Parsing API responses with Python utilities.
+
+P2: Database interactions with Python SQL Connector.
+Read the multiple result sets of database tables from Python	.
+Integrating Database readers with API calls to build Ison payload.
+
+BDD Framework for API Automation is now available.
+
+P3 :CSV Parser with Python modules.
+Read and Write to CS files with Python.
+Interacting with AWS Linux Servers.
+
+P4 :Establishing SSH connection to Linux using Python Paramiko.
+Sending the commands and executing the jobs in Server through Python.
+Uploading and downloading the files of batch Jobs from Servers with paramiko.
+
+P5 :Importance of Web scrapping in Data science projects.
+Techniques to apply web scrapping to extract content from web pages.
+
+Note: This course is all about explaining Python Utilities for Back End Automation work.
